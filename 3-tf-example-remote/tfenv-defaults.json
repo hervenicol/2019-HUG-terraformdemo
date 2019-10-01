@@ -1,0 +1,6 @@
+{
+    "region" : "fra1",
+    "image": "ubuntu-19-04-x64",
+    "clustername": "noname",
+    "www-size": "512mb"
+}
